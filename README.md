@@ -4,6 +4,7 @@ In this repository, I have created some python codes with which you can prank an
 First open the terminal and type:\
 **pip install -r requirements.txt**
 
+
 The first file which is [MouseControl.py](MouseControl.py) will make the mouse move
 automatically. \
 You can change the time the mouse should move according to your wish in the file.\
@@ -13,6 +14,7 @@ windows until the system crashes or it's restarted. \
 You can choose any link of your choice.\
 
  [Third file](weird_sounds.py) as the name says will produce weird sounds.\
+ 
  
 Just run **python [name of the file.py]** to start any one file.
 
