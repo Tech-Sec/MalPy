@@ -15,7 +15,8 @@ def move_mouse(how_long_in_seconds):
 
 if __name__ == "__main__":
     pyautogui.alert("Click Here")
+    #Total time(sec) the mouse will move. Change it if you want.
     move_mouse(120)
-    
-#What will be the result??
+   
+
 #If you have problem in stopping the program just restart your computer
