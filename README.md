@@ -1,6 +1,9 @@
 # Malwares
 In this repository, I have created some python codes with which you can prank anyone. Just for fun!!
 
+First open the terminal and type:
+**pip install -r requirements.txt**
+
 The first file which is [MouseControl.py](MouseControl.py) will make the mouse move
 
 automatically. 
