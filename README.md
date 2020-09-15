@@ -11,13 +11,14 @@ automatically.
 
 windows until the system crashes or it's restarted. 
 
-You can choose any link of your choice
+You can choose any link of your choice.
 
  [Third file](weird_sounds.py) as the name says will produce weird sounds.
 
+Just run **python [name of the file.py]** to start any one file.
 
 You can combine all these file to make a great malware.
 
-If you stuck at any of these scripts Pres **CTRL +ALT + DELETE** and restart your PC
+If you stuck at any of these scripts Press **CTRL +ALT + DELETE** and restart your PC
 
 **FOR EDUCATION PURPOSE ONLY**
