@@ -17,7 +17,7 @@ You can choose any link of your choice.
  
  
 Just run **python [name of the file.py]** to start any one file.
-You can combine all these file to make a great malware.
-If you stuck at any of these scripts Press **CTRL + ALT + DELETE** and restart your PC.
+You can combine all these file to make a great malware.\
+**If you stuck at any of these scripts Press CTRL + ALT + DELETE and restart your PC.**
 
 **FOR EDUCATIONAL PURPOSE ONLY**
