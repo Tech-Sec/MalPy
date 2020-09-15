@@ -10,7 +10,7 @@ automatically.
 
  You can change the time the mouse should move according to your wish in the file. 
 
- [Second file](Webbrowser.py) is he most dangerous of all. This wil start opening browser
+ [Second file](Webbrowser.py) is the most dangerous of all. This wil start opening browser
 
 windows until the system crashes or it's restarted. 
 
