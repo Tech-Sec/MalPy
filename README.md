@@ -1,4 +1,4 @@
-# Malwares
+# MalPy
 In this repository, I have created some python codes with which you can prank anyone. Just for fun!!
 
 First open the terminal and type:\
